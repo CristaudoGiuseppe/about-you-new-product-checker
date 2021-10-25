@@ -78,7 +78,7 @@ class monitor_aboutyou(Thread):
     num_threads = 10
     keywors = ['nike', 'dunk']
     delay = 1
-    webhook = "https://discord.com/api/webhooks/844976184676581387/1OKohtdX3sVZvqmVSHdNeUfYo4JywgeC0g3X9v-Hw_qtgirbsb3saFoGga13mwDFpTBp"
+    webhook = ""
 
     headers = {
         'authority': 'www.aboutyou.it',
