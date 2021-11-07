@@ -205,11 +205,3 @@ def main():
 main()
 
 
-""" temp = "https://www.aboutyou.cz/p/nike-sportswear/tenisky-nike-dunk-low-se-6676235"
-WORDS = temp.split('-')
-keywors = ['nike', 'dunk']
-for word in keywors:
-    if word in WORDS:
-        print(True)
-        break
-print(False) """
