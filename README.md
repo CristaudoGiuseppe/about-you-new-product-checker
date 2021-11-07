@@ -5,15 +5,16 @@ Python scripts which brute force a front-end research in order to find new limit
 # Libraries
 
 <ul>
-    <li>requests;</li> 
+    <li>requests;</li>
     <li>json;</li>
-    <li>random;</li> 
-    <li>csv;</li> 
-    <li>time;</li> 
+    <li>random;</li>
+    <li>csv;</li>
+    <li>time;</li>
     <li>threading;</li>
     <li>datetime;</li>
-    <li>bs4;</li> 
+    <li>bs4;</li>
     <li>discord_webhook;</li>
+</ul>
 
 # How to set up
 
